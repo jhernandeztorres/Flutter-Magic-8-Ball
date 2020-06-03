@@ -9,7 +9,7 @@ This application is part of The App Brewery course on Udemy.com
 
 ## Getting Started
 To run this application you will need to setup the environment.
-[Flutter.dev](https://flutter.dev/docs/get-started/install) has simple and easy to follow tutorial
+[Flutter.dev](https://flutter.dev/docs/get-started/install) has a simple and easy to follow tutorial
 on how to get the environment ready. <br>
 Clone the repo to whatever folder you want and open it up in the IDE you most like. <br>
 You might need to download some extensions/plugins. (Flutter and Dart)
