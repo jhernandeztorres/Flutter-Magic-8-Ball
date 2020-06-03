@@ -1,0 +1,4 @@
+#Wed Jun 03 15:33:01 EDT 2020
+base.0=/Users/josehernandeztorres/StudioProjects/magic-8-ball-flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
