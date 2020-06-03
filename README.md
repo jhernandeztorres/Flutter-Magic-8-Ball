@@ -1,9 +1,6 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Magic 8 Ball 🎱
 
-We’re going to make a magical 8 ball app, it will give you the answers to all the tricky questions<br>
+This is the magical 8 ball app, it will give you the answers to all the tricky questions<br>
 in life. You can make the ball change at the press of a button. 
 
 ## The App Brewery
